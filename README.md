@@ -1,4 +1,4 @@
-# css-common
+# css-global
 Summarize some of the commonly used css styles in development.
 
 
