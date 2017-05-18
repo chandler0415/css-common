@@ -15,24 +15,16 @@
   padding: 10px;
 }
 
-.p15 {
-  padding: 15px;
-}
-
 .p20 {
   padding: 20px;
-}
-
-.p25 {
-  padding: 25px;
 }
 
 .p30 {
   padding: 30px;
 }
 
-.p35 {
-  padding: 35px;
+.pt0 {
+  padding-top: 0
 }
 
 .pt5 {
@@ -43,24 +35,16 @@
   padding-top: 10px;
 }
 
-.pt15 {
-  padding-top: 15px;
-}
-
 .pt20 {
   padding-top: 20px;
-}
-
-.pt25 {
-  padding-top: 25px;
 }
 
 .pt30 {
   padding-top: 30px;
 }
 
-.pt35 {
-  padding-top: 35px;
+.pr0 {
+  padding-right: 0
 }
 
 .pr5 {
@@ -71,24 +55,16 @@
   padding-right: 10px;
 }
 
-.pr15 {
-  padding-right: 15px;
-}
-
 .pr20 {
   padding-right: 20px;
-}
-
-.pr25 {
-  padding-right: 25px;
 }
 
 .pr30 {
   padding-right: 30px;
 }
 
-.pr35 {
-  padding-right: 35px;
+.pb0 {
+  padding-bottom: 0
 }
 
 .pb5 {
@@ -99,24 +75,16 @@
   padding-bottom: 10px;
 }
 
-.pt15 {
-  padding-bottom: 15px;
-}
-
 .pt20 {
   padding-bottom: 20px;
-}
-
-.pt25 {
-  padding-bottom: 25px;
 }
 
 .pt30 {
   padding-bottom: 30px;
 }
 
-.pt35 {
-  padding-bottom: 35px;
+.pl0 {
+  padding-left: 0
 }
 
 .pl5 {
@@ -127,24 +95,12 @@
   padding-left: 10px;
 }
 
-.pl15 {
-  padding-left: 15px;
-}
-
 .pl20 {
   padding-left: 20px;
 }
 
-.pl25 {
-  padding-left: 25px;
-}
-
 .pl30 {
   padding-left: 30px;
-}
-
-.pl35 {
-  padding-left: 35px;
 }
 
 .m5 {
@@ -155,24 +111,16 @@
   margin: 10px;
 }
 
-.m15 {
-  margin: 15px;
-}
-
 .m20 {
   margin: 20px;
-}
-
-.m25 {
-  margin: 25px;
 }
 
 .m30 {
   margin: 30px;
 }
 
-.m35 {
-  margin: 35px;
+.mt0 {
+  margin-top: 0
 }
 
 .mt5 {
@@ -183,24 +131,16 @@
   margin-top: 10px;
 }
 
-.mt15 {
-  margin-top: 15px;
-}
-
 .mt20 {
   margin-top: 20px;
-}
-
-.mt25 {
-  margin-top: 25px;
 }
 
 .mt30 {
   margin-top: 30px;
 }
 
-.mt35 {
-  margin-top: 35px;
+.mr0 {
+  margin-right: 0
 }
 
 .mr5 {
@@ -211,24 +151,16 @@
   margin-right: 10px;
 }
 
-.mr15 {
-  margin-right: 15px;
-}
-
 .mr20 {
   margin-right: 20px;
-}
-
-.mr25 {
-  margin-right: 25px;
 }
 
 .mr30 {
   margin-right: 30px;
 }
 
-.mr35 {
-  margin-right: 35px;
+.mb0 {
+  margin-bottom: 0
 }
 
 .mb5 {
@@ -239,24 +171,16 @@
   margin-bottom: 10px;
 }
 
-.mb15 {
-  margin-bottom: 15px;
-}
-
 .mb20 {
   margin-bottom: 20px;
-}
-
-.mb25 {
-  margin-bottom: 25px;
 }
 
 .mb30 {
   margin-bottom: 30px;
 }
 
-.mb35 {
-  margin-bottom: 35px;
+.ml0 {
+  margin-left: 0
 }
 
 .ml5 {
@@ -267,24 +191,12 @@
   margin-left: 10px;
 }
 
-.ml15 {
-  margin-left: 15px;
-}
-
 .ml20 {
   margin-left: 20px;
 }
 
-.ml25 {
-  margin-left: 25px;
-}
-
 .ml30 {
   margin-left: 30px;
-}
-
-.ml35 {
-  margin-left: 35px;
 }
 
 
